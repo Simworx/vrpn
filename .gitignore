@@ -38,3 +38,5 @@ Release/
 _UpgradeReport_Files/
 *.sln.cache
 *.tmp*.vcproj
+*.db
+vrpn.VC.VC.opendb
